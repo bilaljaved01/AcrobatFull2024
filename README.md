@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bilal 
 - 👀 I’m interested in Web Development and App Development
-- 🌱 I’m currently learning Java (2nd programming language) and CSS (for frontend web dev)
+- 🌱 I’m currently learning Java (2nd programming language) and JS (for frontend web dev)
 - 💞️ I’m looking to collaborate on Frontend (fullstack in future)
 - 📫 You can reach me on twitter @bilaldottwt
 
